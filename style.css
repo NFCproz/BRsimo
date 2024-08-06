@@ -457,7 +457,8 @@ nav .menu .menu_icon:hover .icon:after {
   text-shadow: 6px 6px 10px #32243E;
 }
 .wrapper .container .text article button {
-  height: 40px;
+  height: none;
+  margin-top:300px;
   padding: 0 30px;
   border-radius: 50px;
   cursor: pointer;
