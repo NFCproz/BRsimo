@@ -132,7 +132,7 @@ a,
 i,
 input,
 body {
-	
+
   margin: 0;
   padding: 0;
   list-style: none;
@@ -159,33 +159,12 @@ body:focus {
 }
 
 body {
-  margin: 0;
+	margin-top:150px;
+	margin-left: -120px;
   padding: 0;
   height: auto;
   font-family: "Barlow", sans-serif;
   background: #695681;
-}
-
-.logo {
-  position: fixed;
-  z-index: 5;
-  bottom: 10px;
-  right: 10px;
-  width: 40px;
-  height: 40px;
-  border-radius: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: rgba(0, 0, 0, 0.1);
-  border-radius: 100%;
-  backdrop-filter: blur(5px);
-}
-.logo img {
-  width: 55%;
-  height: 55%;
-  transform: translateY(-1px);
-  opacity: 0.8;
 }
 
 nav .menu {
@@ -633,3 +612,4 @@ nav .menu .menu_icon:hover .icon:after {
   animation-name: pieceLeft;
   animation-delay: 4.5s;
 }
+
