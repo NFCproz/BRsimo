@@ -281,6 +281,7 @@ nav .menu .menu_icon:hover .icon:after {
 }
 
 .wrapper {
+		margin-left:150px;
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
