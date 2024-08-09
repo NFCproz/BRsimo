@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900|Barlow:300,400,500,600,700,800,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900|Montserrat:300,400,500,600,700,800,900&display=swap");
 .about {
   position: fixed;
   z-index: 10;
@@ -163,8 +163,8 @@ body {
 	margin-left: -120px;
   padding: 0;
   height: auto;
-  font-family: "Barlow", sans-serif;
-  background: #695681;
+  font-family: "Montserrat", sans-serif;
+  background: #7205c5;
 }
 
 nav .menu {
@@ -533,7 +533,7 @@ nav .menu .menu_icon:hover .icon:after {
   }
 }
 .wrapper .container .one .content .piece {
-  background: linear-gradient(90deg, #8077EA 13.7%, #EB73FF 94.65%);
+  background: linear-gradient(90deg, #3e0554 13.7%, #b772d1 94.65%);
 }
 .wrapper .container .one .content .piece:nth-child(1) {
   right: 15%;
@@ -560,7 +560,7 @@ nav .menu .menu_icon:hover .icon:after {
   animation-name: pieceLeft;
 }
 .wrapper .container .two .content .piece {
-  background: linear-gradient(90deg, #FFEDC0 0%, #FF9D87 100%);
+  background: linear-gradient(90deg, #091682 0%, #4b57b8 100%);
 }
 .wrapper .container .two .content .piece:nth-child(1) {
   left: 0%;
@@ -587,7 +587,7 @@ nav .menu .menu_icon:hover .icon:after {
   animation-name: pieceRight;
 }
 .wrapper .container .three .content .piece {
-  background: #FB8A8A;
+  background: #7205c5;
 }
 .wrapper .container .three .content .piece:nth-child(1) {
   left: 25%;
